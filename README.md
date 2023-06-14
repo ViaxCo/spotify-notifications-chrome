@@ -2,6 +2,10 @@
 
 Displays notifications when song changes on Spotify.
 
+## Download
+
+[Chrome Web Store](https://chrome.google.com/webstore/detail/spotify-notifications/bafpmlbnkbemofddicmfkaigjnicdmcl)
+
 ## HOW TO USE:
 
 ### Clone the repository
