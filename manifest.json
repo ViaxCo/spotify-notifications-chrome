@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Spotify Notifications",
-  "description": "Displays notifications on song changes on Spotify.",
+  "description": "Displays notifications when song changes on Spotify.",
   "version": "1.0.0",
   "author": "ViaxCo",
   "background": {
